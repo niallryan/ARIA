@@ -1,5 +1,7 @@
 Niall's change
 
+Niall's second change
+
 A CHANGE
 
 This is another line
